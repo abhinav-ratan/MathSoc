@@ -6,11 +6,12 @@
 # Foreign Internship Guide
 
 Welcome to the Foreign Internship Guide! This guide is designed to help students at IIT Delhi navigate the process of securing research internships abroad. If you have questions or concerns, this document provides answers to common inquiries.
+The session was conducted by Mathsoc on 25th October 2023. The MoM was jotted down by Rohan Roy in GoogleDocs before I added it to GitHub
 
 ## Application Phase
 
 ### How to decide which professor/university/research area to email? Is it necessary to write customized prof-specific emails? If yes, how to do so?
-- Utilize csrankings.org and rankings.
+- Utilize csrankings.org and hindex.
 - Assistant and young professors are more receptive.
 - Avoid cold emailing; do research on professors.
 - Relate the professor's research areas to your experiences.
