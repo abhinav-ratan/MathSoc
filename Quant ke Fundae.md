@@ -6,9 +6,9 @@ Welcome to the Quant Internship Guide! This guide is designed to help students a
 
 ## Speakers:
 - [Tushar Sethi (Quadeye PPO)](https://www.linkedin.com/in/tushar-sethi-10a6b41ba/?originalSubdomain=in)
-- [Yashas Kedia (Optiver PPO)](linkedin.com/in/yashas-kedia-4806a5218/?originalsubdomain=in)
+- [Yashas Kedia (Optiver PPO)](https://www.linkedin.com/in/yashas-kedia-4806a5218/?originalsubdomain=in)
 - [Laksh (Graviton PPO)](https://www.linkedin.com/in/glak/?originalSubdomain=in)
-- [Riya (World Quant Placements)](linkedin.com/in/riya-sawhney-21b8a9214/?originalsubdomain=in)
+- [Riya (World Quant Placements)](https://www.linkedin.com/in/riya-sawhney-21b8a9214/?originalsubdomain=in)
 
 
 
