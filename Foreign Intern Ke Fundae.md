@@ -112,5 +112,6 @@ The session was conducted by Mathsoc on 25th October 2023. The MoM was jotted do
 ## Conclusion
 
 Remember that securing a foreign internship is a valuable experience, but it's not the end of the world if you don't get one. Continue to work on improving your skills and exploring opportunities. Good luck with your journey into the world of research and internships!
-
+![Views](https://komarev.com/ghpvc/?username=abhinav-ratan&label=Views&color=brightgreen)
 ---
+
