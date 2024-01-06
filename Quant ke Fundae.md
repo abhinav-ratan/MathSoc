@@ -1,4 +1,8 @@
-#Quant Ke Fundae
+~~Kaun Banega Crorepati~~
+<sup>Quant Ke Fundae</sup>
+
+
+Welcome to the Quant Internship Guide! This guide is designed to help students at IIT Delhi navigate the process of securing internships at quantitative trading firms abroad. If you have questions or concerns, this document provides answers to common inquiries. The session was conducted by Mathsoc on 5th January 202. The MoM was jotted down by Shrenik Mohan Sakala in GoogleDocs before I added it to GitHub.
 
 ## Speakers:
 - [Tushar Sethi (Quadeye PPO)](https://www.linkedin.com/in/tushar-sethi-10a6b41ba/?originalSubdomain=in)
@@ -7,7 +11,7 @@
 - [Riya (World Quant Placements)](linkedin.com/in/riya-sawhney-21b8a9214/?originalsubdomain=in)
 
 
-# Quant Internship Session - Q&A
+
 
 ## Info and Motivation
 
