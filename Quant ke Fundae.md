@@ -1,5 +1,5 @@
-#~~Kaun Banega Crorepati~~
-#<sup>Quant Ke Fundae</sup>
+# ~~Kaun Banega Crorepati~~
+# Quant Ke Fundae
 
 
 Welcome to the Quant Internship Guide! This guide is designed to help students at IIT Delhi navigate the process of securing internships at quantitative trading firms abroad. If you have questions or concerns, this document provides answers to common inquiries. The session was conducted by Mathsoc on 5th January 202. The MoM was jotted down by Shrenik Mohan Sakala in GoogleDocs before I added it to GitHub.
